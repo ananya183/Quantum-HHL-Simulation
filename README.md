@@ -1,6 +1,6 @@
 # Quantum HHL Simulation Project
 
-This repository contains the code, documentation, and analysis for implementing the Harrow-Hassidim-Lloyd (HHL) algorithm to solve linear systems using quantum computing principles. The project focuses on solving a specific 2-dimensional non-Hermitian linear system, converted into a Hermitian form, and simulating the solution using the PennyLane framework.
+This repository contains the documentation, and analysis for implementing the Harrow-Hassidim-Lloyd (HHL) algorithm to solve linear systems using quantum computing principles. The project focuses on solving a specific 2-dimensional non-Hermitian linear system, converted into a Hermitian form, and simulating the solution using the PennyLane framework.
 
 ## **Project Overview**
 The HHL algorithm is a cornerstone of quantum computation, enabling efficient solutions to linear systems of equations in \( O(\log N) \) compared to \( O(N) \) in classical computation for sparse matrices. This project builds upon prior research by:
