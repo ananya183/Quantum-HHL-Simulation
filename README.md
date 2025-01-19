@@ -10,11 +10,11 @@ The HHL algorithm is a cornerstone of quantum computation, enabling efficient so
 - Comparing theoretical and simulated results.
 
 ## **Key Files**
-1. **Birds Eye View.pdf**
+1. **Presentation Slides.pdf**
    - Provides an overview of the theoretical underpinnings, challenges, and potential of quantum algorithms for linear systems.
    - Discusses eigenvalues, eigenvectors, and implementation details for the HHL algorithm.
 
-2. **ECS417Project.pdf**
+2. **HHL_Project_Report.pdf**
    - Detailed description of the ECS417 course project under Dr. Ankur Raina, IISER Bhopal.
    - Includes the mathematical formulation, quantum circuit design, and simulation results using PennyLane.
    - Highlights modifications to the original HHL algorithm for a specific non-Hermitian 2D system.
